@@ -1,0 +1,78 @@
+DOM License (c) {year} {username}
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. Attribution and Inclusion Requirement  
+   You must include this license, in its entirety and without modification, and
+   the above copyright notice in all copies or substantial portions of
+   the Software, in source and binary forms. Omission constitutes a
+   violation of this license and may result in civil or criminal liability
+   under applicable law, including but not limited to Title 17 of the United
+   States Code (U.S. Copyright Law), the European Union Copyright Directive
+   (2001/29/EC), and the German Urheberrechtsgesetz (UrhG §§13, 14, 15, 31).
+
+2. No Warranty  
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL
+   THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+   AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+3. Legal Liability and Indemnification  
+   You agree to use the Software only in accordance with all applicable laws,
+   including but not limited to U.S. federal and state law, European Union
+   law (including the General Data Protection Regulation, GDPR), and the laws
+   of the Federal Republic of Germany.
+
+   Any misuse, including but not limited to unlawful distribution, reverse
+   engineering in violation of export laws, or use in criminal activity
+   (including hacking or unauthorized access under 18 U.S.C. § 1030 or
+   § 202a of the German Criminal Code, StGB), is strictly prohibited and
+   releases the Author from all responsibility.
+
+   You agree to indemnify, defend, and hold harmless the Author against all
+   claims, losses, damages, liabilities, penalties, expenses, and legal fees
+   arising out of or relating to your use, modification, or distribution of
+   the Software.
+
+4. Enforcement and Jurisdiction  
+   By using the Software, you agree that any breach of this license may be
+   subject to injunctive relief and/or damages. The Author reserves the right
+   to pursue legal action, including civil and criminal remedies, under:
+
+   - U.S. Federal Law (17 U.S. Code, 18 U.S. Code),
+   - The European Union's IP Enforcement Directive (2004/48/EC),
+   - German Civil Code (BGB), including §§ 280 ff., and
+   - German Copyright Law (UrhG),
+   - And other applicable INTERNATIONAL treaties such as the Berne Convention.
+
+   Legal jurisdiction shall lie with the competent courts of the country in
+   which the Author resides, unless otherwise required by mandatory statutory
+   provisions (e.g., consumer protection laws).
+
+5. No Endorsement  
+   Use of the Software does not imply endorsement by the Author. The Author
+   assumes no responsibility for the actions of third parties using the
+   Software, even if derivative or modified.
+
+6. Non-Revocability  
+   This license is granted in perpetuity and cannot be revoked, provided the
+   conditions herein are met. Failure to comply will terminate this license
+   immediately and automatically, and the Author may pursue further legal
+   action for continued use.
+
+7. Severability  
+   If any clause or portion of this license is found invalid, unlawful, or
+   unenforceable under applicable law, the remaining provisions shall continue
+   in full force and effect.
+
+BY USING, COPYING, MODIFYING, OR DISTRIBUTING THIS SOFTWARE, YOU
+ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREED TO BE BOUND BY
+THE TERMS AND CONDITIONS OF THIS LICENSE. NON-COMPLIANCE MAY RESULT IN
+LEGAL CONSEQUENCES UNDER INTERNATIONAL LAW.
