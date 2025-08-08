@@ -88,9 +88,9 @@ LEGAL CONSEQUENCES UNDER INTERNATIONAL LAW.
     try:
         with open("LICENSE", "w", encoding="utf-8") as f:
             f.write(license_text)
-        print("✅ LICENSE file successfully created.")
+        print("LICENSE file successfully created.")
     except Exception as e:
-        print(f"❌ Error writing LICENSE file: {e}")
+        print(f"Error writing LICENSE file: {e}")
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
@@ -99,7 +99,8 @@ if __name__ == "__main__":
 
     username = sys.argv[1].strip()
     if not username:
-        print("❌ Username must not be empty.")
+        print("Username must not be empty.")
         sys.exit(1)
 
     generate_dom_license(username)
+
